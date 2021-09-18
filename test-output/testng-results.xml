@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4558" started-at="2021-09-18T21:02:59 EET" finished-at="2021-09-18T21:03:04 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4558" started-at="2021-09-18T21:02:59 EET" finished-at="2021-09-18T21:03:04 EET">
+      <class name="tests.searchLeason">
+        <test-method status="PASS" signature="webDriver()[pri:0, instance:tests.searchLeason@480bdb19]" name="webDriver" is-config="true" duration-ms="9682" started-at="2021-09-18T21:02:50 EET" finished-at="2021-09-18T21:02:59 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDriver -->
+        <test-method status="PASS" signature="chooseLanguage()[pri:1, instance:tests.searchLeason@480bdb19]" name="chooseLanguage" duration-ms="867" started-at="2021-09-18T21:02:59 EET" finished-at="2021-09-18T21:03:00 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseLanguage -->
+        <test-method status="PASS" signature="leasonSearch()[pri:2, instance:tests.searchLeason@480bdb19]" name="leasonSearch" duration-ms="1226" started-at="2021-09-18T21:03:00 EET" finished-at="2021-09-18T21:03:01 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leasonSearch -->
+        <test-method status="PASS" signature="selectSpecificLesson()[pri:3, instance:tests.searchLeason@480bdb19]" name="selectSpecificLesson" duration-ms="1058" started-at="2021-09-18T21:03:01 EET" finished-at="2021-09-18T21:03:02 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectSpecificLesson -->
+        <test-method status="PASS" signature="clickLessonWorkSheet()[pri:4, instance:tests.searchLeason@480bdb19]" name="clickLessonWorkSheet" duration-ms="1286" started-at="2021-09-18T21:03:02 EET" finished-at="2021-09-18T21:03:04 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLessonWorkSheet -->
+        <test-method status="PASS" signature="countWorkSheetQuestions()[pri:5, instance:tests.searchLeason@480bdb19]" name="countWorkSheetQuestions" duration-ms="94" started-at="2021-09-18T21:03:04 EET" finished-at="2021-09-18T21:03:04 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countWorkSheetQuestions -->
+      </class> <!-- tests.searchLeason -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
