@@ -8,7 +8,7 @@ import pages.lessonDetailsPage;
 import pages.workSheetPage;
 import testBase.Base;
 
-public class searchLeason extends Base{
+public class searchLesson extends Base{
 	
 	@Test(priority = 1)
 	public void chooseLanguage () {
